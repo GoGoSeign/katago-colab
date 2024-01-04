@@ -2,7 +2,7 @@
     "katago": {
         "bin": "https://github.com/GoGoSeign/katago-colab/releases/download/KataGo/katago.zip",
         "libzip": "libzip5",
-        "weight": "https://media.katagotraining.org/uploaded/networks/models/kata1/kata1-b18c384nbt-s8526915840-d3929217702.bin.gz"
+        "weight": "https://github.com/GoGoSeign/katago-colab/releases/download/KataGo/model.txt.gz"
     },
     "ngrok": "https://github.com/GoGoSeign/katago-colab/releases/download/KataGo/ngrok"
 }
