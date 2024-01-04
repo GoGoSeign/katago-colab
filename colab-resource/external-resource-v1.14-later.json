@@ -1,6 +1,6 @@
 {
     "katago": {
-        "bin": "https://github.com/GoGoSeign/katago-colab/releases/download/KataGo/katago.zip",
+        "txt": "https://github.com/GoGoSeign/katago-colab/releases/download/KataGo/katago.zip",
         "libzip": "libzip5",
         "weight": "https://github.com/GoGoSeign/katago-colab/releases/download/KataGo/model.txt.gz"
     },
