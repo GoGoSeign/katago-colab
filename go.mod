@@ -1,4 +1,4 @@
-module https://github.com/GoGoSeign/katago-colab
+module github.com/kinfkong/katago-colab
 
 go 1.14
 
