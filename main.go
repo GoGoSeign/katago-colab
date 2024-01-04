@@ -80,7 +80,7 @@ const (
 	// KataGoBin the bin file path
 	KataGoBin string = "/content/katago"
 	// KataGoWeightFile the default weight file
-	KataGoWeightFile string = "/content/weight.gz"
+	KataGoWeightFile string = "/content/weight.txt.gz"
 	// KataGoConfigFile the default config file
 	KataGoConfigFile string = "/content/katago-colab/config/gtp_colab.cfg"
 	// KataGoChangeConfigScript changes the config
